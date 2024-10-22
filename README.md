@@ -1,3 +1,3 @@
 
-This is the simple Hello World repo
-# hello-world
+This is my first Git Repository with Hello World
+# Hello World
